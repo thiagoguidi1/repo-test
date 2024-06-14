@@ -36,7 +36,8 @@ Explique sobre o projeto.
 
 blablabla, que não sei oq, não sei oq lá etc, etc...
 <br>
-Pipipi, popopo 
+Pipipi, popopo
+
 </p>
 </div>
 
@@ -44,6 +45,7 @@ Pipipi, popopo
 <h2>⚙️ Funcionalidades</h2>
 
 - [x] Funcionalidade 1:
+
   - [x] Entidade 1;
   - [x] Entidade 2;
   - [ ] Entidade 3;
@@ -115,7 +117,7 @@ Pipipi, popopo
 <br>
 
 <div id="comoexecutar">
-<h2>🛣️ Como executar o projeto</h2>
+<h2>📋 Como executar o projeto</h2>
 <p>Este projeto é divido em três partes:</p>
 <ol>
   <li>Backend (pasta X)</li>
@@ -133,7 +135,7 @@ Pipipi, popopo
 </ul>
 <p>Além disto é bom ter um editor para trabalhar com o código como o <strong><a href="https://code.visualstudio.com">VSCode</a></strong>.</p>
 
-<h4>🎲 Rodando o Backend (servidor)</h4>
+<h4>🧰 Rodando o Backend (servidor)</h4>
 
 ```bash
 
@@ -155,7 +157,8 @@ $ npm <>
 # O servidor inciará na porta:X - acesse http://localhost:X
 
 ```
-<h4>🧭 Rodando a aplicação web (Frontend)</h4>
+
+<h4>🖥️ Rodando a aplicação web (Frontend)</h4>
 
 ```bash
 
@@ -216,14 +219,17 @@ $ npm <>
 <h2>📝 Licença</h2>
 <p>Esse projeto está sob a <strong><a href="./LICENSE"></a>licença MIT</strong>.</p>
 <img src="https://img.shields.io/github/license/thiagoguidi1/user-registration" alt="github repository license badge">
-
-<a href="#topo">
-<img src="https://img.shields.io/badge/Voltar%20ao%20topo-gray" alt="back on top button">
-</a>
 </div>
-
 
 <br>
 <div align="center">
   <h3>Feito com ❤️ por <a href="https://github.com/thiagoguidi1"><strong>Thiago Guidi</strong></a>👋🏽 <a href="https://www.linkedin.com/in/thiagoguidi/"><em>Entre em Contato!</em></a></h3>
+</div>
+
+<br>
+
+<div align="end">
+  <a href="#topo">
+    <img src="https://img.shields.io/badge/Voltar%20ao%20topo-gray" alt="back on top button">
+    </a>
 </div>
